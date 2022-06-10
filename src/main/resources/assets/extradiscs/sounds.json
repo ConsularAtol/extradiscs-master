@@ -1,0 +1,32 @@
+{
+    "clara": {
+        "sounds": [
+          "extradiscs:clara"
+        ]
+      },
+    "overworld_shuffle": {
+        "sounds": [
+          "extradiscs:overworld_shuffle"
+        ]
+    },
+    "inside_me_still": {
+        "sounds": [
+          "extradiscs:inside_me_still"
+        ]
+    },
+    "stylish_story": {
+        "sounds": [
+          "extradiscs:stylish_story"
+        ]
+    },
+    "things_unsaid": {
+        "sounds": [
+          "extradiscs:things_unsaid"
+        ]
+    },
+    "enrapture": {
+        "sounds": [
+          "extradiscs:enrapture"
+        ]
+    }
+}

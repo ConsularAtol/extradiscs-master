@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "extradiscs",
+  "version": "${version}",
+
+  "name": "Extra Discs",
+  "description": "Adds more music discs",
+  "authors": [
+    "Consular"
+  ],
+  "contact": {
+
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/extradiscs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "consular.extradiscs.ExtraDiscs"
+    ]
+  },
+  "mixins": [
+    
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.7",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
